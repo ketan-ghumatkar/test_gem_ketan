@@ -1,7 +1,7 @@
 # TestGemKetan
 
-TODO: Write a gem description
-
+Test gem created while writing blog How To Create And Publish Gem.
+Basic gem structure with bundler prints "Well Done. First Gem created !!!" on irb console on requiring gem
 ## Installation
 
 Add this line to your application's Gemfile:
